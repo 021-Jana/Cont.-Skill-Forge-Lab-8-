@@ -1,0 +1,465 @@
+{
+  "C0071f398": {
+    "courseId": "C0071f398",
+    "title": "asdas",
+    "description": "",
+    "instructorId": "ebea4820-14e6-45c1-a471-1aa1ab277672",
+    "lessons": [
+      {
+        "lessonId": "L88346c8e",
+        "title": "123123",
+        "content": "",
+        "resources": []
+      }
+    ],
+    "students": [],
+    "progress": {},
+    "approvalStatus": "PENDING",
+    "rejectionReason": "",
+    "lessonCompletion": {},
+    "quizAverages": {}
+  },
+  "C4b3a4a0a": {
+    "courseId": "C4b3a4a0a",
+    "title": "Programming 2",
+    "description": "Java OOP course",
+    "instructorId": "ebea4820-14e6-45c1-a471-1aa1ab277672",
+    "lessons": [],
+    "students": [
+      "7b8b39e1-9940-4947-a026-220163249fcc"
+    ],
+    "progress": {},
+    "approvalStatus": "APPROVED",
+    "rejectionReason": "",
+    "lessonCompletion": {},
+    "quizAverages": {}
+  },
+  "C7919b0eb": {
+    "courseId": "C7919b0eb",
+    "title": "sdsdsadsdsd",
+    "description": "sdegffadsf34fewdc",
+    "instructorId": "ebea4820-14e6-45c1-a471-1aa1ab277672",
+    "lessons": [],
+    "students": [
+      "7b8b39e1-9940-4947-a026-220163249fcc"
+    ],
+    "progress": {},
+    "approvalStatus": "APPROVED",
+    "rejectionReason": "",
+    "lessonCompletion": {},
+    "quizAverages": {}
+  },
+  "Cf2e8e951": {
+    "courseId": "Cf2e8e951",
+    "title": "prog 2",
+    "description": "",
+    "instructorId": "ebea4820-14e6-45c1-a471-1aa1ab277672",
+    "lessons": [
+      {
+        "lessonId": "L09fc111b",
+        "title": "polymorphism",
+        "content": "1-overloading\n2-overriding",
+        "resources": []
+      },
+      {
+        "lessonId": "L7f1d3a64",
+        "title": "12312312",
+        "content": "",
+        "resources": []
+      }
+    ],
+    "students": [
+      "7b8b39e1-9940-4947-a026-220163249fcc"
+    ],
+    "progress": {
+      "7b8b39e1-9940-4947-a026-220163249fcc": [
+        "L09fc111b"
+      ]
+    },
+    "approvalStatus": "PENDING",
+    "rejectionReason": "",
+    "lessonCompletion": {},
+    "quizAverages": {}
+  },
+  "C1f2cbaf8": {
+    "courseId": "C1f2cbaf8",
+    "title": "123123",
+    "description": "",
+    "instructorId": "ebea4820-14e6-45c1-a471-1aa1ab277672",
+    "lessons": [],
+    "students": [],
+    "progress": {},
+    "approvalStatus": "PENDING",
+    "rejectionReason": "",
+    "lessonCompletion": {},
+    "quizAverages": {}
+  },
+  "C24b747f7": {
+    "courseId": "C24b747f7",
+    "title": "Data structure \u0026 algorithms",
+    "description": "Data structure \u0026 algorithms",
+    "instructorId": "aaa991e6-558e-4e56-8463-f7332b632195",
+    "lessons": [],
+    "students": [],
+    "progress": {},
+    "approvalStatus": "REJECTED",
+    "rejectionReason": "rejected",
+    "lessonCompletion": {},
+    "quizAverages": {}
+  },
+  "C8e0838fb": {
+    "courseId": "C8e0838fb",
+    "title": "logic 2",
+    "description": "",
+    "instructorId": "ebea4820-14e6-45c1-a471-1aa1ab277672",
+    "lessons": [
+      {
+        "lessonId": "Lc63a3d7d",
+        "title": "flip flops",
+        "content": "all flip flops functions",
+        "resources": []
+      }
+    ],
+    "students": [
+      "7b8b39e1-9940-4947-a026-220163249fcc"
+    ],
+    "progress": {
+      "7b8b39e1-9940-4947-a026-220163249fcc": [
+        "Lc63a3d7d"
+      ]
+    },
+    "approvalStatus": "PENDING",
+    "rejectionReason": "",
+    "lessonCompletion": {},
+    "quizAverages": {}
+  },
+  "C283d17e5": {
+    "courseId": "C283d17e5",
+    "title": "prog 2",
+    "description": "asd",
+    "instructorId": "ebea4820-14e6-45c1-a471-1aa1ab277672",
+    "lessons": [
+      {
+        "lessonId": "La56bc7d1",
+        "title": "sadassad",
+        "content": "dasd",
+        "resources": [],
+        "quiz": []
+      }
+    ],
+    "students": [],
+    "progress": {},
+    "approvalStatus": "APPROVED",
+    "rejectionReason": "",
+    "lessonCompletion": {},
+    "quizAverages": {}
+  },
+  "C7e68c00d": {
+    "courseId": "C7e68c00d",
+    "title": "jhgqjwhdsgj",
+    "description": "",
+    "instructorId": "5c23ed08-dd6f-4cb1-b297-a3c8a38c023e",
+    "lessons": [
+      {
+        "lessonId": "Le9e976b5",
+        "title": "aasdasukjd",
+        "content": "iioioo",
+        "resources": []
+      }
+    ],
+    "students": [
+      "4e235820-39a0-4c20-9ebb-d52f75318ad2"
+    ],
+    "progress": {
+      "4e235820-39a0-4c20-9ebb-d52f75318ad2": [
+        "Le9e976b5"
+      ]
+    },
+    "approvalStatus": "PENDING",
+    "rejectionReason": "",
+    "lessonCompletion": {},
+    "quizAverages": {}
+  },
+  "Cf85eaea5": {
+    "courseId": "Cf85eaea5",
+    "title": "data1",
+    "description": "kdjkhfd",
+    "instructorId": "12d65456-1796-43dc-a312-6a86e13244c1",
+    "lessons": [
+      {
+        "lessonId": "L199af7d8",
+        "title": "lesson1",
+        "content": "krfjkr",
+        "resources": [],
+        "quiz": []
+      },
+      {
+        "lessonId": "Lf68f6ae9",
+        "title": "lesson2",
+        "content": "mfjhreurf",
+        "resources": [],
+        "quiz": []
+      },
+      {
+        "lessonId": "L436272b2",
+        "title": "lesson3",
+        "content": "jlojhd",
+        "resources": []
+      },
+      {
+        "lessonId": "L8cf68c62",
+        "title": "lesson4",
+        "content": "jfcjf",
+        "resources": []
+      }
+    ],
+    "students": [
+      "6fb4bd41-9a3c-447d-82a2-ef5d0338bdc3",
+      "f194eb92-b04b-4f50-b71f-853792f0761f"
+    ],
+    "progress": {
+      "6fb4bd41-9a3c-447d-82a2-ef5d0338bdc3": [
+        "Lf68f6ae9",
+        "L199af7d8"
+      ],
+      "f194eb92-b04b-4f50-b71f-853792f0761f": [
+        "L199af7d8"
+      ]
+    },
+    "approvalStatus": "APPROVED",
+    "rejectionReason": "",
+    "lessonCompletion": {},
+    "quizAverages": {}
+  },
+  "Ca6e077a9": {
+    "courseId": "Ca6e077a9",
+    "title": "Logic - 2",
+    "description": "con",
+    "instructorId": "aaa991e6-558e-4e56-8463-f7332b632195",
+    "lessons": [
+      {
+        "lessonId": "L791959fa",
+        "title": "lec1",
+        "content": "1",
+        "resources": [],
+        "quiz": [
+          {
+            "quizId": "Qd9b3f4db",
+            "lessonId": "L791959fa",
+            "questions": [
+              {
+                "questionText": "Age",
+                "choices": [
+                  "-1",
+                  "-2",
+                  "-0",
+                  "12"
+                ],
+                "correctIdx": 3
+              },
+              {
+                "questionText": "year",
+                "choices": [
+                  "-1",
+                  "2025",
+                  "-0",
+                  "100"
+                ],
+                "correctIdx": 1
+              },
+              {
+                "questionText": "negative",
+                "choices": [
+                  "-1",
+                  "2025",
+                  "0",
+                  "100"
+                ],
+                "correctIdx": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "lessonId": "L9961ba97",
+        "title": "lec2",
+        "content": "2",
+        "resources": [],
+        "quiz": [
+          {
+            "quizId": "Qbed950a1",
+            "lessonId": "L9961ba97",
+            "questions": [
+              {
+                "questionText": "hi",
+                "choices": [
+                  "hi",
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "correctIdx": 0
+              },
+              {
+                "questionText": "hello",
+                "choices": [
+                  "0",
+                  "0",
+                  "0",
+                  "hello"
+                ],
+                "correctIdx": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "lessonId": "L90fa43ba",
+        "title": "lec3",
+        "content": "3",
+        "resources": [],
+        "quiz": [
+          {
+            "quizId": "Q28c362c7",
+            "lessonId": "L90fa43ba",
+            "questions": [
+              {
+                "questionText": "age",
+                "choices": [
+                  "10",
+                  "0",
+                  "x",
+                  "l"
+                ],
+                "correctIdx": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "students": [
+      "fb3a4cef-6121-426f-a3e5-16c2500f21be"
+    ],
+    "progress": {
+      "fb3a4cef-6121-426f-a3e5-16c2500f21be": [
+        "L791959fa",
+        "L9961ba97",
+        "L90fa43ba"
+      ]
+    },
+    "approvalStatus": "APPROVED",
+    "rejectionReason": "",
+    "lessonCompletion": {},
+    "quizAverages": {}
+  },
+  "C271e0ed3": {
+    "courseId": "C271e0ed3",
+    "title": "course1",
+    "description": "mjdjreiueru",
+    "instructorId": "12d65456-1796-43dc-a312-6a86e13244c1",
+    "lessons": [
+      {
+        "lessonId": "L1be7672a",
+        "title": "lesson1.1",
+        "content": "nduje",
+        "resources": [],
+        "quiz": []
+      }
+    ],
+    "students": [
+      "6fb4bd41-9a3c-447d-82a2-ef5d0338bdc3",
+      "f194eb92-b04b-4f50-b71f-853792f0761f"
+    ],
+    "progress": {
+      "f194eb92-b04b-4f50-b71f-853792f0761f": [
+        "L1be7672a"
+      ]
+    },
+    "approvalStatus": "APPROVED",
+    "rejectionReason": "",
+    "lessonCompletion": {},
+    "quizAverages": {}
+  },
+  "C9f5c8ba2": {
+    "courseId": "C9f5c8ba2",
+    "title": "Programming-2",
+    "description": "OOP principles",
+    "instructorId": "aaa991e6-558e-4e56-8463-f7332b632195",
+    "lessons": [
+      {
+        "lessonId": "L692ba766",
+        "title": "lec1",
+        "content": "Intro",
+        "resources": [],
+        "quiz": [
+          {
+            "quizId": "Q588e464c",
+            "lessonId": "L692ba766",
+            "questions": [
+              {
+                "questionText": "enter 1",
+                "choices": [
+                  "a",
+                  "d",
+                  "1",
+                  "r"
+                ],
+                "correctIdx": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "lessonId": "Lc36244e6",
+        "title": "Lec2",
+        "content": "Class \u0026 objects",
+        "resources": [],
+        "quiz": [
+          {
+            "quizId": "Q5f3a6cc2",
+            "lessonId": "Lc36244e6",
+            "questions": [
+              {
+                "questionText": "year",
+                "choices": [
+                  "2025",
+                  "9",
+                  "0",
+                  "-100"
+                ],
+                "correctIdx": 0
+              },
+              {
+                "questionText": "which is oop",
+                "choices": [
+                  "c",
+                  "java",
+                  "z",
+                  "0"
+                ],
+                "correctIdx": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "students": [
+      "fb3a4cef-6121-426f-a3e5-16c2500f21be"
+    ],
+    "progress": {
+      "fb3a4cef-6121-426f-a3e5-16c2500f21be": [
+        "L692ba766",
+        "Lc36244e6"
+      ]
+    },
+    "approvalStatus": "APPROVED",
+    "rejectionReason": "",
+    "lessonCompletion": {},
+    "quizAverages": {}
+  }
+}

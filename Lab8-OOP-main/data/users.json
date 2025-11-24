@@ -1,0 +1,181 @@
+[
+  {
+    "createdCourses": [],
+    "userId": "5c23ed08-dd6f-4cb1-b297-a3c8a38c023e",
+    "username": "deif",
+    "email": "j@g.com",
+    "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "role": "instructor"
+  },
+  {
+    "enrolledCourses": [],
+    "progress": {},
+    "quizAttempts": {},
+    "certificates": [],
+    "userId": "4e235820-39a0-4c20-9ebb-d52f75318ad2",
+    "username": "abc",
+    "email": "a@n.com",
+    "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "role": "student"
+  },
+  {
+    "enrolledCourses": [],
+    "progress": {},
+    "quizAttempts": {},
+    "certificates": [],
+    "userId": "7b8b39e1-9940-4947-a026-220163249fcc",
+    "username": "boda",
+    "email": "boda@g.com",
+    "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "role": "student"
+  },
+  {
+    "createdCourses": [
+      "C0071f398",
+      "C1f2cbaf8",
+      "C283d17e5"
+    ],
+    "userId": "ebea4820-14e6-45c1-a471-1aa1ab277672",
+    "username": "abdo",
+    "email": "abdo@g.com",
+    "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "role": "instructor"
+  },
+  {
+    "managedCourses": [],
+    "userId": "6d8db997-d433-4b6f-b48a-638ce31fe7c1",
+    "username": "admin",
+    "email": "admin@skillforge.com",
+    "passwordHash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin"
+  },
+  {
+    "createdCourses": [
+      "C9f5c8ba2",
+      "C24b747f7",
+      "Ca6e077a9"
+    ],
+    "userId": "aaa991e6-558e-4e56-8463-f7332b632195",
+    "username": "jana-021",
+    "email": "jana@gmail.com",
+    "passwordHash": "19873bcd63d708885962481dbdd2b49bf5406e23b4baadab2f168d90376d6ed8",
+    "role": "instructor"
+  },
+  {
+    "enrolledCourses": [
+      "Ca6e077a9",
+      "C9f5c8ba2"
+    ],
+    "progress": {
+      "Ca6e077a9": [],
+      "C9f5c8ba2": []
+    },
+    "quizAttempts": {
+      "Q588e464c": {
+        "quizId": "Q588e464c",
+        "score": 1,
+        "attemptDate": "Nov 24, 2025, 6:14:45 AM"
+      },
+      "Q5f3a6cc2": {
+        "quizId": "Q5f3a6cc2",
+        "score": 2,
+        "attemptDate": "Nov 24, 2025, 6:14:57 AM"
+      },
+      "Qd9b3f4db": {
+        "quizId": "Qd9b3f4db",
+        "score": 3,
+        "attemptDate": "Nov 24, 2025, 6:15:19 AM"
+      },
+      "Qbed950a1": {
+        "quizId": "Qbed950a1",
+        "score": 1,
+        "attemptDate": "Nov 24, 2025, 6:15:31 AM"
+      },
+      "Q28c362c7": {
+        "quizId": "Q28c362c7",
+        "score": 1,
+        "attemptDate": "Nov 24, 2025, 6:15:43 AM"
+      }
+    },
+    "certificates": [
+      {
+        "certificateId": "d95106da-21f2-4e0f-a68f-1addcce2cc08",
+        "studentId": "fb3a4cef-6121-426f-a3e5-16c2500f21be",
+        "courseId": "Ca6e077a9",
+        "courseTitle": "Logic - 2",
+        "issueDate": "2025-11-24"
+      },
+      {
+        "certificateId": "6e0843c2-8377-469b-947d-353e91b3bba3",
+        "studentId": "fb3a4cef-6121-426f-a3e5-16c2500f21be",
+        "courseId": "C9f5c8ba2",
+        "courseTitle": "Programming-2",
+        "issueDate": "2025-11-24"
+      },
+      {
+        "certificateId": "395345bb-403a-48fc-86c2-5f7d881f5ea0",
+        "studentId": "fb3a4cef-6121-426f-a3e5-16c2500f21be",
+        "courseId": "Ca6e077a9",
+        "courseTitle": "Logic - 2",
+        "issueDate": "2025-11-24"
+      }
+    ],
+    "userId": "fb3a4cef-6121-426f-a3e5-16c2500f21be",
+    "username": "021-jana",
+    "email": "jana2@gmail.com",
+    "passwordHash": "a37a6bec27c6edde12ec1afc348fc105249eef792dfb4775e5985325c9548b05",
+    "role": "student"
+  },
+  {
+    "createdCourses": [
+      "Cf85eaea5",
+      "C271e0ed3"
+    ],
+    "userId": "12d65456-1796-43dc-a312-6a86e13244c1",
+    "username": "instr",
+    "email": "instr@gmail.com",
+    "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+    "role": "instructor"
+  },
+  {
+    "enrolledCourses": [
+      "Cf85eaea5",
+      "C271e0ed3"
+    ],
+    "progress": {
+      "Cf85eaea5": [
+        "Lf68f6ae9",
+        "L199af7d8"
+      ],
+      "C271e0ed3": []
+    },
+    "quizAttempts": {},
+    "certificates": [],
+    "userId": "6fb4bd41-9a3c-447d-82a2-ef5d0338bdc3",
+    "username": "stu",
+    "email": "stu@gmali.com",
+    "passwordHash": "fe68a21fc76bba7b3a3d8e454eca8cd258de68fd08dddf035f23ddbdce6fc049",
+    "role": "student"
+  },
+  {
+    "enrolledCourses": [
+      "Cf85eaea5",
+      "C271e0ed3"
+    ],
+    "progress": {
+      "Cf85eaea5": [
+        "L199af7d8"
+      ],
+      "C271e0ed3": [
+        "L1be7672a"
+      ]
+    },
+    "quizAttempts": {},
+    "certificates": [],
+    "userId": "f194eb92-b04b-4f50-b71f-853792f0761f",
+    "username": "afnan",
+    "email": "afnan@gmail.com",
+    "passwordHash": "2a057642222a878bc360f52f8e1f0dfd2af93196f123269397423155a4ec4884",
+    "role": "student"
+  }
+]
